@@ -1,0 +1,2 @@
+Jul19n/CS2340A_Team8
+auth=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
